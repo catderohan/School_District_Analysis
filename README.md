@@ -9,9 +9,9 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
 
 **How is the district summary affected?** 
 
-    The district summary total students were not effected as the code did not ask us to report the new Thomas student count numbers into the district summary. No difference were noted in average reading or math scores. The total students would have been 38,709 instead of 39170, as 461 student scores were replaced w/NaN. The math % passing score changed from 75.0% to 74.8%. Reading % passing score changed from 85.8% to 85.7%. Lastly the overall passing score changed from 65.2% to 64.9% when removing grades from Thomas High School 9th grade.
+   The district summary total students were not effected as the code did not ask us to report the new Thomas student count numbers into the district summary. No difference were noted in average reading or math scores. The total students would have been 38,709 instead of 39170, as 461 student scores were replaced w/NaN. The math % passing score changed from 75.0% to 74.8%. Reading % passing score changed from 85.8% to 85.7%. Lastly the overall passing score changed from 65.2% to 64.9% when removing grades from Thomas High School 9th grade.
     
-    ![](Resources/DistrictSummary.PNG)
+   ![](Resources/DistrictSummary.PNG)
 
     
 **How is the school summary affected?**
