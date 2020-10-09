@@ -14,21 +14,26 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
     
 * How is the school summary affected?
 
-    The school summary was slightly effected with new scores from Thomas High School.The percent passing math is 93.3% where as without 9th grades it is now 93.2%. For reading, it was previously 97.3% and now it is 97%. Overall percentage changed from 90.9% to 90.6%.
+   * The school summary was slightly effected with new scores from Thomas High School.T
+   * The percent passing math is 93.3% where as without 9th grades it is now 93.2%. For reading, it was previously 97.3% and now it is 97%. Overall percentage changed from 90.9% to 90.6%.
      ![](Resources/SchoolSummary.PNG)
     
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-    Thomas High School stayed in position 2 of the top schools in the district. Overall percentage of passing went from 90.5% to 90.6% without the ninth grade scores. 
+    * Thomas High School stayed in position 2 of the top schools in the district. 
+    * Overall percentage of passing went from 90.5% to 90.6% without the ninth grade scores. 
     ![](Resources/topschools.PNG)
     
 * How does replacing the ninth-grade scores affect the following:
+
       * Math and reading scores by grade:
           * Replacing ninth grade scores with NaN effected the results marginally. Thomas Highschool math scores went from 83.6% to 83.4%. Th0mas High School reading scores                 went from 83.7% to 83.8%.
           
  * Scores by school spending
+ 
      * Thomas High School is in the $630 -$644 bin budget per student. 
-     * There was no difference noticed in average math or reading grades. The % passing math was 73.4, % passing      reading was 84.4%, and overall passing was 62.9%. Now the  % passing math is 73.5%, % passing reading is 84.3% and overall passing is 62.8%. 
+     * There was no difference noticed in average math or reading grades. 
+     * The % passing math was 73.4, % passing reading was 84.4%, and overall passing was 62.9%. Now the % passing math is 73.5%, % passing reading is 84.3% and overall passing is 62.8%. 
           ![](Resources/SpendingRangesbySchool.PNG)
           
  * Scores by school size
