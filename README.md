@@ -42,7 +42,7 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
  
       * Thomas High School is in the middle size bin. The middle size bin had a spend of $62.8 and is $62.9 without the 9th graders at Thomas High School. All numbers stayed the same except the overall passing % increased from 62.6% to 62.8%.
  
-          ![](Resources/topschools.PNG)
+          ![](Resources/schoolsbysize.PNG)
           
  * Scores by school type
           Thomas High School is classified as a charter school. Charter schools have a drastic success over district schools with a 90% passing rate compared to a 54% passing           rate with district schools. Replacing the 9th grade scores had no effects on the results. 
