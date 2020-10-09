@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-The purpose of this assignment was to reevaluate the analysis without 9th grade grades at Thomas Highschool. Originally we performed the analysis on all students but due to THomas 9th grade data being altered, we re ran the data to exclude 9th grade Thomas. Then we analyzed the new results for district and school summary and compared it to the previous results.
+The purpose of this assignment was to reevaluate the analysis without 9th grade grades at Thomas Highschool. Originally we performed the analysis on all students but due to Thomas 9th grade data being altered, we reran the data to exclude 9th grade Thomas. Then we analyzed the new results for district and school summary and compared it to the previous results.
  
 
 ## Results
 
 **How is the district summary affected?** 
 
-   The district summary total students were not effected as the code did not ask us to report the new Thomas student count numbers into the district summary. No difference were noted in average reading or math scores. The total students would have been 38,709 instead of 39170, as 461 student scores were replaced w/NaN. The math % passing score changed from 75.0% to 74.8%. Reading % passing score changed from 85.8% to 85.7%. Lastly the overall passing score changed from 65.2% to 64.9% when removing grades from Thomas High School 9th grade.
+   The district summary total students were not effected as the code did not ask us to report the new Thomas student count numbers into the district summary. No difference were noted in average reading or math scores. The total students would have been 38,709 instead of 39,170 as 461 student scores were replaced w/NaN. The math % passing score changed from 75.0% to 74.8%. Reading % passing score changed from 85.8% to 85.7%. Lastly the overall passing score changed from 65.2% to 64.9% when removing grades from Thomas High School 9th grade.
     
    ![](Resources/DistrictSummary.PNG)
 
@@ -17,7 +17,7 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
 **How is the school summary affected?**
 
    * The school summary was slightly effected with new scores from Thomas High School.
-   * The percent for Thomas High SChool passing math was 93.3% where as without 9th grades it is now 93.2%. For reading, it was previously 97.3% and now it is 97%. Overall percentage changed from 90.9% to 90.6%.
+   * The percent for Thomas High School passing math was 93.3% where as without 9th grades it is now 93.2%. For reading, it was previously 97.3% and now it is 97%. Overall passing percentage changed from 90.9% to 90.6%.
      ![](Resources/SchoolSummary.PNG)
     
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
@@ -30,7 +30,7 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
 
    Math and reading scores by grade:
     * Replacing ninth grade scores with NaN effected the results marginally. 
-    * Thomas Highschool math scores increased from 83.6% to 83.4%. 
+    * Thomas High School math scores increased from 83.6% to 83.4%. 
     * Thomas High School reading scores increased from 83.7% to 83.8%.
           
  **Scores by school spending**
@@ -44,7 +44,7 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
  
    * Thomas High School is in the middle size bin. The middle size bin had a spend of $62.8 and is now $62.9 without the 9th graders at Thomas High School. All numbers stayed the same except the overall passing % increased from 62.6% to 62.8%.
  
-          ![](Resources/schoolsbysize.PNG)
+        ![](Resources/schoolsbysize.PNG)
           
  **Scores by school type**
  
