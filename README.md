@@ -14,8 +14,8 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
     
 * How is the school summary affected?
 
-   * The school summary was slightly effected with new scores from Thomas High School.T
-   * The percent passing math is 93.3% where as without 9th grades it is now 93.2%. For reading, it was previously 97.3% and now it is 97%. Overall percentage changed from 90.9% to 90.6%.
+   * The school summary was slightly effected with new scores from Thomas High School.
+   * The percent for Thomas High SChool passing math is 93.3% where as without 9th grades it is now 93.2%. For reading, it was previously 97.3% and now it is 97%. Overall percentage changed from 90.9% to 90.6%.
      ![](Resources/SchoolSummary.PNG)
     
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -26,26 +26,32 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
     
 * How does replacing the ninth-grade scores affect the following:
 
-      * Math and reading scores by grade:
-          * Replacing ninth grade scores with NaN effected the results marginally. Thomas Highschool math scores went from 83.6% to 83.4%. Th0mas High School reading scores                 went from 83.7% to 83.8%.
+    * Math and reading scores by grade:
+          * Replacing ninth grade scores with NaN effected the results marginally. 
+          * Thomas Highschool math scores went from 83.6% to 83.4%. 
+          * Thomas High School reading scores went from 83.7% to 83.8%.
           
  * Scores by school spending
  
      * Thomas High School is in the $630 -$644 bin budget per student. 
      * There was no difference noticed in average math or reading grades. 
-     * The % passing math was 73.4, % passing reading was 84.4%, and overall passing was 62.9%. Now the % passing math is 73.5%, % passing reading is 84.3% and overall passing is 62.8%. 
+     * The % passing math was 73.4%, % passing reading was 84.4%, and overall passing was 62.9%. Now the % passing math is 73.5%, % passing reading is 84.3% and overall passing is 62.8%. 
           ![](Resources/SpendingRangesbySchool.PNG)
           
  * Scores by school size
-      * Thomas High School is in the middle  size bin. The middle size bin had a spend of $62.8 and is $62.9 without the 9th graders at Thomas High School. 
-      * The average math score was 78.5%. Even with removing the 9th graders at Thomas High School the average math score stays the same.
-      * The average reading score was 81.6%. Even with removing the 9th graders at Thomas High School the average math score stays the same.
-      * The % passing math was 73:5%. This stayed the same even without grades from 9th grade at Thomas High School. 
-      * The % passing reading was 84.3%. This stayed the same even without grades from 9th grade at Thomas High School
-      * The % overall passing was 62.6%. With removing 9th graders at Thomas High School, the overall passing % increased to 62.8%.
-       
+ 
+      * Thomas High School is in the middle size bin. The middle size bin had a spend of $62.8 and is $62.9 without the 9th graders at Thomas High School. All numbers stayed the same except the overall passing % increased from 62.6% to 62.8%.
+ 
           ![](Resources/topschools.PNG)
           
  * Scores by school type
           Thomas High School is classified as a charter school. Charter schools have a drastic success over district schools with a 90% passing rate compared to a 54% passing           rate with district schools. Replacing the 9th grade scores had no effects on the results. 
           ![](Resources/SchoolsbyType.PNG)
+
+## Summary
+The four major changes to the school district challenge when deleting 9th grade scores from Thomas High School.
+     * The total students went from 39,170 to 38,709
+     * The overall passing score for the district decreased from 65.2% to 64.9%.
+     * Overall passing score for Thomas High School decreased from 90.9% to 90.6%.
+     * Overall percentage of Thomas High Schoolers increased from 90.5% to 90.6%.
+     
