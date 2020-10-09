@@ -44,12 +44,12 @@ The purpose of this assignment was to reevaluate the analysis without 9th grade 
           ![](Resources/schoolsbysize.PNG)
           
  * Scores by school type
-          Thomas High School is classified as a charter school. Charter schools have a drastic success over district schools with a 90% passing rate compared to a 54% passing           rate with district schools. Replacing the 9th grade scores had no effects on the results. 
+ 
+    *Thomas High School is classified as a charter school. Charter schools have a drastic success over district schools with a 90% passing rate compared to a 54% passing        rate with district schools. Replacing the 9th grade scores had no effects on the results. 
           ![](Resources/SchoolsbyType.PNG)
 
 ## Summary
 The four major changes to the school district challenge when deleting 9th grade scores from Thomas High School.
-
      * The total students went from 39,170 to 38,709
      * The overall passing score for the district decreased from 65.2% to 64.9%.
      * Overall passing score for Thomas High School decreased from 90.9% to 90.6%.
